@@ -1,3 +1,4 @@
+
 valores_permitidos = ['M', 'V', 'N']
 
 turno = input("Em que turno você estuda? Responda com:\nM para matutino\n" +

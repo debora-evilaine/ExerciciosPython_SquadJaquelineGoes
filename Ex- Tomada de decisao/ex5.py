@@ -1,14 +1,3 @@
-"""
-Desenvolvaumprogramaquesolicite
-aousuáriooscomprimentosdostrêslados
-deumtriânguloeclassifique-ocomoequilátero,
-isóscelesouescaleno.equilátero:todososlados
-comomesmovalor
-isósceles:doisladoscomomesmovalor
-escaleno:
-todososladoscommedidasdistintas.
-"""
-
 lado1, lado2, lado3 = [int(lado1) for lado1 in input("Entre com os 3 lados do triângulo separados por espaço: ").split()]
 
 if lado1 == lado2 == lado3:

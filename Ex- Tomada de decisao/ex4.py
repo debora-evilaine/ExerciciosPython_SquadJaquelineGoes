@@ -1,10 +1,3 @@
-"""
-Implementeumprogramaqueclassifiqueumalunocombaseemsuapontuaçãoemumexame.
-Oprogramadeverásolicitarumanotade0a10.
-Seapontuaçãoformaiorouiguala7,
-oalunoéaprovado;casocontrário,éreprovado
-"""
-
 nota = int(input("Entre com uma nota de 0 a 10: "))
 
 while nota not in range(0, 11):

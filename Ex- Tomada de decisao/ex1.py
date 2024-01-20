@@ -3,9 +3,7 @@ peça dois números e imprima o maior deles
 """
 
 numero1 = int(input("Entre com o primeiro número: "))
-
 maior = numero1
-
 numero2 = int(input("Entre com o segundo número: "))
 
 if maior > numero2:
