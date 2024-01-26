@@ -1,9 +1,3 @@
-"""
-Crieumprogramaquesoliciteaousuárioumlogineumasenha.
-Oprogramadevepermitiroacessoapenasseousuáriofor"admin"
-easenhafor"admin123",casocontrárioimprimaumamensagemdeerro.
-"""
-
 login = input("Entre com o seu login: ")
 
 senha = input("Entre com sua senha: ")
