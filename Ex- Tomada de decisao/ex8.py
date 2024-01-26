@@ -1,3 +1,4 @@
+
 numero1, numero2, numero3 = [int(numero1) for numero1 in input("Entre com 3 números separados por espaços: ").split()]
 
 maior = numero1
