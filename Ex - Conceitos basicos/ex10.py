@@ -1,4 +1,3 @@
-
 nome, idade, profissao, hobby = [(nome) for nome in input("Entre com o seu nome, idade, profissão e hobby separados por espaços: ").split()]
 
 idade_convertida = int(idade)
